@@ -5,4 +5,5 @@
 2. Create and export function from different packages
 3. Used data structures like Arrays, Maps.
 4. Created abstract data types using Structs.
-5. Imported a third party package to display the cli output in colors.
+5. Imported a third party package to display the cli output in colors to make the cli interaction a bit interesting.
+6. Implemented concurrency using go routines. 
